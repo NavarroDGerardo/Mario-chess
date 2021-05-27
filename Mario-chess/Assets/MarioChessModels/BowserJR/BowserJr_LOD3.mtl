@@ -1,0 +1,228 @@
+# Blender MTL File: 'None'
+# Material Count: 17
+
+newmtl KoopaJr_brushTip
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brushTip_alb.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brushTip_alb.png
+
+newmtl KoopaJr_eyeshapesMat00
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\Koopa_Jr_eye_shapes_alb.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\Koopa_Jr_eye_shapes_alb.png
+
+newmtl KoopaJr_mat_01
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_nrm.png
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_alb.png
+map_Ks C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_spc.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_alb.png
+
+newmtl KoopaJr_mat_02
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_nrm.png
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_alb.png
+map_Ks C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_spc.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_alb.png
+
+newmtl KoopaJr_mat_03
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_nrm.png
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_alb.png
+map_Ks C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_spc.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_alb.png
+
+newmtl KoopaJr_mat_04
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_nrm.png
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_alb.png
+map_Ks C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_spc.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_alb.png
+
+newmtl KoopaJr_mat_05
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_nrm.png
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_alb.png
+map_Ks C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_spc.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KoopaJr_alb.png
+
+newmtl koopaJr_brushMat01
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brush_nrm.png
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brush_alb.png
+map_Ks C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brush_spc.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brush_alb.png
+
+newmtl koopaJr_brushMat02
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brush_nrm.png
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brush_alb.png
+map_Ks C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brush_spc.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brush_alb.png
+
+newmtl koopaJr_brushMat04
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brush_nrm.png
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brush_alb.png
+map_Ks C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brush_spc.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_brush_alb.png
+
+newmtl koopaJr_clownCarMat01
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_clownCar_nrm.png
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_clownCar_alb.png
+map_Ks C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_clownCar_spc.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_clownCar_alb.png
+
+newmtl koopaJr_clownCarMat03
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_clownCar_alb.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_clownCar_alb.png
+
+newmtl koopaJr_clownCarMat03.001
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_clownCar_alb.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_clownCar_alb.png
+
+newmtl koopaJr_clownCarMat04
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_clownCar_nrm.png
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_clownCar_alb.png
+map_Ks C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_clownCar_spc.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_clownCar_alb.png
+
+newmtl koopaJr_mask01
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_mask_nrm.png
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_mask_alb.png
+map_Ks C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_mask_spc.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\koopaJr_mask_alb.png
+
+newmtl std_KPJ_eye_l1
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KPJ_eye.0.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KPJ_eye.0.png
+
+newmtl std_KPJ_eye_r1
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KPJ_eye.0.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\Textures\\KPJ_eye.0.png

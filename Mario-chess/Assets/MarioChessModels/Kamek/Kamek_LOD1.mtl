@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl sfx_phong7__S_CUS_0xa6101005___1_____NORMEXP16___VTC_
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\SOURCE\\MarioU_sub_kameck01_col.png
+map_d C:\\Users\\Dazuam\\Desktop\\SOURCE\\MarioU_sub_kameck01_col.png

@@ -1,0 +1,84 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl add
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\MaSatR2016OG\\Birdo\\images\\cat_body.png
+map_d C:\\Users\\Dazuam\\Desktop\\MaSatR2016OG\\Birdo\\images\\cat_body.png
+
+newmtl body_a
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\MaSatR2016OG\\Birdo\\images\\cat_body.png
+map_d C:\\Users\\Dazuam\\Desktop\\MaSatR2016OG\\Birdo\\images\\cat_body.png
+
+newmtl eye_l
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\MaSatR2016OG\\Birdo\\images\\cat_eyeball.png
+
+newmtl eye_r
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\MaSatR2016OG\\Birdo\\images\\cat_eyeball.png
+
+newmtl ref_bt
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\MaSatR2016OG\\Birdo\\images\\cat_body.png
+map_d C:\\Users\\Dazuam\\Desktop\\MaSatR2016OG\\Birdo\\images\\cat_body.png
+
+newmtl skin
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\MaSatR2016OG\\Birdo\\images\\cat_body.png
+map_d C:\\Users\\Dazuam\\Desktop\\MaSatR2016OG\\Birdo\\images\\cat_body.png
+
+newmtl sub
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Dazuam\\Desktop\\MaSatR2016OG\\Birdo\\images\\cat_body.png
+map_d C:\\Users\\Dazuam\\Desktop\\MaSatR2016OG\\Birdo\\images\\cat_body.png
