@@ -31,14 +31,12 @@ public class GameMasterScript : MonoBehaviour
             activePiece = chessPiece;
             activeReference = pieceReference;
             pieceReference.showSelected();
-            Debug.Log("Gameobject set as selected from manager.");
         }
         else
         {
             activePiece = null;
             activeReference.hideSelected();
             activeReference = null;
-            Debug.Log("Gameobject set to null from manager");
         }
     }
 
@@ -50,7 +48,6 @@ public class GameMasterScript : MonoBehaviour
             activePiece = null;
             activeReference.hideSelected();
             activeReference = null;
-            Debug.Log("Piece moved from manager complete");
         }
     }
 }
